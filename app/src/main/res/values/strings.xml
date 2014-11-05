@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServicesDemoInAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_normal_service">NormalServiceActivity</string>
+    <string name="title_activity_intent_service">IntentServiceActivity</string>
+    <string name="title_activity_bound_service">BoundServiceActivity</string>
+    <string name="notification">Notification</string>
+</resources>
